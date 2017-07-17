@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-11 23:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gus-api-nip24pl.php:124
+msgid "Please, specify company VAT ID number."
+msgstr ""
+
+#: gus-api-nip24pl.php:183
+msgid "Enter VAT ID number and press <b>Fetch data</b> button."
+msgstr ""
+
+#: gus-api-nip24pl.php:187 gus-api-nip24pl.php:201
+#: gus-api-nip24pl.php:277
+msgid "VAT ID"
+msgstr ""
+
+#: gus-api-nip24pl.php:197
+msgid "Fetch data"
+msgstr ""
+
+#: gus-api-nip24pl.php:203
+msgid " is invalid"
+msgstr ""
+
+#: gus-api-nip24pl.php:207
+msgid ""
+"Data outdated? <a href=\"javascript:nip24GetInvoiceData(true);\">Click here!</a>"
+msgstr ""
+
+#: gus-api-nip24pl.php:253
+msgid "Specified company VAT ID number is invalid."
+msgstr ""
+
+#: gus-api-nip24pl.php:292
+msgid "NIP24 Service"
+msgstr ""
+
+#: gus-api-nip24pl.php:293
+msgid "The following options are required for integration with NIP24 service."
+msgstr ""
+
+#: gus-api-nip24pl.php:299
+msgid "Service address"
+msgstr ""
+
+#: gus-api-nip24pl.php:300
+msgid ""
+"This sets the NIP24 Service URL address. Default is: https://www.nip24.pl/api."
+msgstr ""
+
+#: ../gus-api-nip24pl.php:301
+msgid "Company status"
+msgstr ""
+
+#: ../gus-api-nip24pl.php:302
+msgid "Active"
+msgstr ""
+
+#: ../gus-api-nip24pl.php:303
+msgid "Suspended or terminated"
+msgstr ""
+
+#: gus-api-nip24pl.php:308
+msgid "API Key identifier"
+msgstr ""
+
+#: gus-api-nip24pl.php:309
+msgid "This sets the NIP24 API access key identifier."
+msgstr ""
+
+#: gus-api-nip24pl.php:316
+msgid "API Key value"
+msgstr ""
+
+#: gus-api-nip24pl.php:317
+msgid "This sets the NIP24 API access key value."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "NIP24 for WooCommerce"
+msgstr "NIP24 dla WooCommerce"
+
+#. Description of the plugin/theme
+msgid "Plugin that integrates WooCommerce with NIP24 Service."
+msgstr "Wtyczka integrująca serwis NIP24 z modułem WooCommerce."

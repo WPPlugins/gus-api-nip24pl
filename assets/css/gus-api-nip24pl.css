@@ -1,0 +1,18 @@
+/**
+ * Plugin Name: NIP24 for WooCommerce
+ * Plugin URI: http://www.nip24.pl
+ * Description: Plugin that integrates WooCommerce with NIP24 Service.
+ * Version: 1.2.8
+ * Author: nip24.pl
+ * Author URI: http://www.nip24.pl
+ * 
+ * Requires at least: 4.1
+ * Tested up to: 4.7.3
+ *
+ * Text Domain: gus-api-nip24pl
+ * Domain Path: /languages
+ */
+
+.woocommerce_nip24_order_block strong {
+	display: block;
+}
